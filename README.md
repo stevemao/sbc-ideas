@@ -2,5 +2,7 @@
 
 > single-board computer ideas
 
-- [ ] remote control
-- [ ] chef
+- [ ] Kettle controller
+- [ ] Curtain controller
+- [ ] Chef
+- [ ] Wall lights controller
