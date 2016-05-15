@@ -7,3 +7,4 @@
 - [ ] Curtain controller
 - [ ] Chef
 - [ ] Wall lights controller
+- [ ] Playing organ
